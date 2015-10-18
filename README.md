@@ -46,6 +46,10 @@ La aplicación permite localizar los errores devueltos. Para gestionarlos, se ha
 
 Existe una documentación disponible en **./doc/apiv1**. Para la generación y actualización de la misma se ha usado [ApiDocs].
 
+### Notas adicionales
+
+El presente código fuente ha sido objeto de revisión por parte del profesor que impartión dicho módulo. Una copia de este repositorio con todas las observaciones/correcciones realizadas por el profesor pueden verse en: https://github.com/pmargom/KCModDevOpsPMGGitHub. Este nuevo repositorio será usado para la entrega de la práctica correspondiente al módulo DevOps impartido detro del máster.
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does it's job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Express]: <http://expressjs.com>
